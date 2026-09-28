@@ -1,9 +1,0 @@
-{
-  "name":"the-unit-infinity-clicker",
-  "version":"1.0.0",
-  "private":true,
-  "description":"The Unit Discord Infinity Clicker",
-  "main":"server.js",
-  "scripts":{"start":"node server.js"},
-  "dependencies":{"ws":"^8.18.0"}
-}
